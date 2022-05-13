@@ -1,0 +1,50 @@
+[
+  {
+    "package": "fastverse",
+    "oncran": true
+  },
+  {
+    "package": "collapse",
+    "oncran": true
+  },
+  {
+    "package": "data.table",
+    "oncran": true
+  },
+  {
+    "package": "matrixStats",
+    "oncran": true
+  },
+  {
+    "package": "kit",
+    "oncran": true
+  },
+  {
+    "package": "magrittr",
+    "oncran": true
+  },
+  {
+    "package": "fst",
+    "oncran": true
+  },
+  {
+    "package": "xts",
+    "oncran": true
+  },
+  {
+    "package": "roll",
+    "oncran": true
+  },
+  {
+    "package": "Rfast",
+    "oncran": true
+  },
+  {
+    "package": "qs",
+    "oncran": true
+  },
+  {
+    "package": "fixest",
+    "oncran": true
+  }
+]
