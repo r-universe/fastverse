@@ -115,8 +115,9 @@
 	registered = true
 [submodule "stringdist"]
 	path = stringdist
-	url = https://github.com/markvanderloo/stringdist/tree/master/pkg
+	url = https://github.com/markvanderloo/stringdist
 	shallow = true
+	subdir = pkg
 	registered = true
 [submodule "Rfast2"]
 	path = Rfast2
@@ -151,5 +152,15 @@
 [submodule "tidytable"]
 	path = tidytable
 	url = https://github.com/markfairbanks/tidytable
+	shallow = true
+	registered = true
+[submodule "fastmatch"]
+	path = fastmatch
+	url = https://github.com/s-u/fastmatch
+	shallow = true
+	registered = true
+[submodule "fastmap"]
+	path = fastmap
+	url = https://github.com/r-lib/fastmap
 	shallow = true
 	registered = true

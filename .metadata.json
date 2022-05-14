@@ -118,5 +118,13 @@
   {
     "package": "tidytable",
     "oncran": true
+  },
+  {
+    "package": "fastmatch",
+    "oncran": true
+  },
+  {
+    "package": "fastmap",
+    "oncran": true
   }
 ]
