@@ -63,3 +63,93 @@
 	url = https://github.com/lrberge/fixest
 	shallow = true
 	registered = true
+[submodule "lubridate"]
+	path = lubridate
+	url = https://github.com/tidyverse/lubridate
+	shallow = true
+	registered = true
+[submodule "anytime"]
+	path = anytime
+	url = https://github.com/eddelbuettel/anytime
+	shallow = true
+	registered = true
+[submodule "nanotime"]
+	path = nanotime
+	url = https://github.com/eddelbuettel/nanotime
+	shallow = true
+	registered = true
+[submodule "fasttime"]
+	path = fasttime
+	url = https://github.com/s-u/fasttime
+	shallow = true
+	registered = true
+[submodule "clock"]
+	path = clock
+	url = https://github.com/r-lib/clock
+	shallow = true
+	registered = true
+[submodule "timechange"]
+	path = timechange
+	url = https://github.com/vspinu/timechange
+	shallow = true
+	registered = true
+[submodule "stringi"]
+	path = stringi
+	url = https://github.com/gagolews/stringi
+	shallow = true
+	registered = true
+[submodule "stringr"]
+	path = stringr
+	url = https://github.com/tidyverse/stringr
+	shallow = true
+	registered = true
+[submodule "snakecase"]
+	path = snakecase
+	url = https://github.com/Tazinho/snakecase
+	shallow = true
+	registered = true
+[submodule "stringfish"]
+	path = stringfish
+	url = https://github.com/traversc/stringfish
+	shallow = true
+	registered = true
+[submodule "stringdist"]
+	path = stringdist
+	url = https://github.com/markvanderloo/stringdist
+	shallow = true
+	registered = true
+[submodule "Rfast2"]
+	path = Rfast2
+	url = https://github.com/RfastOfficial/Rfast2
+	shallow = true
+	registered = true
+[submodule "parallelDist"]
+	path = parallelDist
+	url = https://github.com/alexeckert/parallelDist
+	shallow = true
+	registered = true
+[submodule "coop"]
+	path = coop
+	url = https://github.com/wrathematics/coop
+	shallow = true
+	registered = true
+[submodule "rsparse"]
+	path = rsparse
+	url = https://cran.r-project.org/package=rsparse
+	shallow = true
+	registered = true
+[submodule "MatrixExtra"]
+	path = MatrixExtra
+	url = https://cran.r-project.org/package=MatrixExtra
+	shallow = true
+	registered = true
+[submodule "rrapply"]
+	path = rrapply
+	url = https://cran.r-project.org/package=rrapply
+	shallow = true
+	registered = true
+[submodule "tidytable"]
+	path = tidytable
+	url = https://github.com/markfairbanks/tidytable
+	shallow = true
+	registered = true

@@ -46,5 +46,77 @@
   {
     "package": "fixest",
     "oncran": true
+  },
+  {
+    "package": "lubridate",
+    "oncran": true
+  },
+  {
+    "package": "anytime",
+    "oncran": true
+  },
+  {
+    "package": "nanotime",
+    "oncran": true
+  },
+  {
+    "package": "fasttime",
+    "oncran": true
+  },
+  {
+    "package": "clock",
+    "oncran": true
+  },
+  {
+    "package": "timechange",
+    "oncran": true
+  },
+  {
+    "package": "stringi",
+    "oncran": true
+  },
+  {
+    "package": "stringr",
+    "oncran": true
+  },
+  {
+    "package": "snakecase",
+    "oncran": true
+  },
+  {
+    "package": "stringfish",
+    "oncran": true
+  },
+  {
+    "package": "stringdist",
+    "oncran": true
+  },
+  {
+    "package": "Rfast2",
+    "oncran": true
+  },
+  {
+    "package": "parallelDist",
+    "oncran": true
+  },
+  {
+    "package": "coop",
+    "oncran": true
+  },
+  {
+    "package": "rsparse",
+    "oncran": false
+  },
+  {
+    "package": "MatrixExtra",
+    "oncran": false
+  },
+  {
+    "package": "rrapply",
+    "oncran": false
+  },
+  {
+    "package": "tidytable",
+    "oncran": true
   }
 ]
