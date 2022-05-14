@@ -115,7 +115,7 @@
 	registered = true
 [submodule "stringdist"]
 	path = stringdist
-	url = https://github.com/markvanderloo/stringdist
+	url = https://github.com/markvanderloo/stringdist/tree/master/pkg
 	shallow = true
 	registered = true
 [submodule "Rfast2"]
@@ -135,17 +135,17 @@
 	registered = true
 [submodule "rsparse"]
 	path = rsparse
-	url = https://cran.r-project.org/package=rsparse
+	url = https://github.com/rexyai/rsparse
 	shallow = true
 	registered = true
 [submodule "MatrixExtra"]
 	path = MatrixExtra
-	url = https://cran.r-project.org/package=MatrixExtra
+	url = https://github.com/david-cortes/MatrixExtra
 	shallow = true
 	registered = true
 [submodule "rrapply"]
 	path = rrapply
-	url = https://cran.r-project.org/package=rrapply
+	url = https://github.com/JorisChau/rrapply
 	shallow = true
 	registered = true
 [submodule "tidytable"]

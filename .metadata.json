@@ -105,15 +105,15 @@
   },
   {
     "package": "rsparse",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "MatrixExtra",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rrapply",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "tidytable",
