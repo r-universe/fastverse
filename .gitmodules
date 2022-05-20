@@ -164,3 +164,34 @@
 	url = https://github.com/r-lib/fastmap
 	shallow = true
 	registered = true
+[submodule "tidyfast"]
+	path = tidyfast
+	url = https://github.com/TysonStanley/tidyfast
+	shallow = true
+	registered = true
+[submodule "tidyfst"]
+	path = tidyfst
+	url = https://github.com/hope-data-science/tidyfst
+	shallow = true
+	registered = true
+[submodule "tidyft"]
+	path = tidyft
+	url = https://github.com/hope-data-science/tidyft
+	shallow = true
+	registered = true
+[submodule "maditr"]
+	path = maditr
+	url = https://github.com/gdemin/maditr
+	shallow = true
+	registered = true
+[submodule "geos"]
+	path = geos
+	url = https://github.com/paleolimbot/geos
+	shallow = true
+	registered = true
+[submodule "arrow"]
+	path = arrow
+	url = https://github.com/apache/arrow
+	shallow = true
+	subdir = r
+	registered = true

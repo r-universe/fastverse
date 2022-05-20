@@ -126,5 +126,29 @@
   {
     "package": "fastmap",
     "oncran": true
+  },
+  {
+    "package": "tidyfast",
+    "oncran": false
+  },
+  {
+    "package": "tidyfst",
+    "oncran": true
+  },
+  {
+    "package": "tidyft",
+    "oncran": true
+  },
+  {
+    "package": "maditr",
+    "oncran": true
+  },
+  {
+    "package": "geos",
+    "oncran": true
+  },
+  {
+    "package": "arrow",
+    "oncran": true
   }
 ]
