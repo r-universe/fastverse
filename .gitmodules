@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "fastverse"]
 	path = fastverse
-	url = https://github.com/SebKrantz/fastverse
+	url = https://github.com/fastverse/fastverse
 	shallow = true
 	registered = true
 [submodule "collapse"]
