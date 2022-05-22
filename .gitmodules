@@ -195,3 +195,8 @@
 	shallow = true
 	subdir = r
 	registered = true
+[submodule "dqrng"]
+	path = dqrng
+	url = https://github.com/daqana/dqrng
+	shallow = true
+	registered = true
