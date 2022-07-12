@@ -89,7 +89,7 @@
   },
   {
     "package": "stringdist",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "Rfast2",
@@ -149,7 +149,7 @@
   },
   {
     "package": "arrow",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "dqrng",
