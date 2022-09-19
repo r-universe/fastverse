@@ -49,7 +49,7 @@
   },
   {
     "package": "lubridate",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "anytime",
@@ -141,7 +141,7 @@
   },
   {
     "package": "maditr",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "geos",
@@ -153,6 +153,6 @@
   },
   {
     "package": "dqrng",
-    "oncran": true
+    "oncran": false
   }
 ]
