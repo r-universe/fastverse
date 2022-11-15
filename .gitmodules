@@ -200,3 +200,114 @@
 	url = https://github.com/daqana/dqrng
 	shallow = true
 	registered = true
+[submodule "vctrs"]
+	path = vctrs
+	url = https://github.com/r-lib/vctrs
+	shallow = true
+	registered = true
+[submodule "fastmatrix"]
+	path = fastmatrix
+	url = https://github.com/faosorios/fastmatrix
+	shallow = true
+	registered = true
+[submodule "matrixTests"]
+	path = matrixTests
+	url = https://github.com/karoliskoncevicius/matrixTests
+	shallow = true
+	registered = true
+[submodule "hutilscpp"]
+	path = hutilscpp
+	url = https://github.com/hughparsonage/hutilscpp
+	shallow = true
+	registered = true
+[submodule "dtplyr"]
+	path = dtplyr
+	url = https://github.com/tidyverse/dtplyr
+	shallow = true
+	registered = true
+[submodule "table.express"]
+	path = table.express
+	url = https://github.com/asardaes/table.express
+	shallow = true
+	registered = true
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/duckdb/duckdb
+	shallow = true
+	subdir = tools/rpkg
+	registered = true
+[submodule "vroom"]
+	path = vroom
+	url = https://github.com/tidyverse/vroom
+	shallow = true
+	registered = true
+[submodule "nCompiler"]
+	path = nCompiler
+	url = https://github.com/nimble-dev/nCompiler
+	shallow = true
+	registered = true
+[submodule "ast2ast"]
+	path = ast2ast
+	url = https://github.com/Konrad1991/ast2ast
+	shallow = true
+	registered = true
+[submodule "odin"]
+	path = odin
+	url = https://github.com/mrc-ide/odin
+	shallow = true
+	registered = true
+[submodule "armacmp"]
+	path = armacmp
+	url = https://github.com/dirkschumacher/armacmp
+	shallow = true
+	registered = true
+[submodule "r2c"]
+	path = r2c
+	url = https://github.com/brodieG/r2c
+	shallow = true
+	registered = true
+[submodule "inline"]
+	path = inline
+	url = https://github.com/eddelbuettel/inline
+	shallow = true
+	registered = true
+[submodule "Rcpp"]
+	path = Rcpp
+	url = https://github.com/RcppCore/Rcpp
+	shallow = true
+	registered = true
+[submodule "cpp11"]
+	path = cpp11
+	url = https://github.com/r-lib/cpp11
+	shallow = true
+	registered = true
+[submodule "tidyCpp"]
+	path = tidyCpp
+	url = https://github.com/eddelbuettel/tidycpp
+	shallow = true
+	registered = true
+[submodule "JuliaCall"]
+	path = JuliaCall
+	url = https://github.com/Non-Contradiction/JuliaCall
+	shallow = true
+	registered = true
+[submodule "XRJulia"]
+	path = XRJulia
+	url = https://github.com/johnmchambers/XRJulia
+	shallow = true
+	registered = true
+[submodule "JuliaConnectoR"]
+	path = JuliaConnectoR
+	url = https://github.com/stefan-m-lenz/JuliaConnectoR
+	shallow = true
+	registered = true
+[submodule "rextendr"]
+	path = rextendr
+	url = https://github.com/extendr/rextendr
+	shallow = true
+	registered = true
+[submodule "rJava"]
+	path = rJava
+	url = https://github.com/s-u/rJava
+	shallow = true
+	registered = true

@@ -154,5 +154,90 @@
   {
     "package": "dqrng",
     "oncran": true
+  },
+  {
+    "package": "vctrs",
+    "oncran": true
+  },
+  {
+    "package": "fastmatrix",
+    "oncran": true
+  },
+  {
+    "package": "matrixTests",
+    "oncran": true
+  },
+  {
+    "package": "hutilscpp",
+    "oncran": true
+  },
+  {
+    "package": "dtplyr",
+    "oncran": true
+  },
+  {
+    "package": "table.express",
+    "oncran": true
+  },
+  {
+    "package": "duckdb",
+    "oncran": true
+  },
+  {
+    "package": "vroom",
+    "oncran": true
+  },
+  {
+    "package": "nCompiler"
+  },
+  {
+    "package": "ast2ast",
+    "oncran": true
+  },
+  {
+    "package": "odin",
+    "oncran": true
+  },
+  {
+    "package": "armacmp"
+  },
+  {
+    "package": "r2c"
+  },
+  {
+    "package": "inline",
+    "oncran": true
+  },
+  {
+    "package": "Rcpp",
+    "oncran": true
+  },
+  {
+    "package": "cpp11",
+    "oncran": true
+  },
+  {
+    "package": "tidyCpp",
+    "oncran": true
+  },
+  {
+    "package": "JuliaCall",
+    "oncran": true
+  },
+  {
+    "package": "XRJulia",
+    "oncran": false
+  },
+  {
+    "package": "JuliaConnectoR",
+    "oncran": false
+  },
+  {
+    "package": "rextendr",
+    "oncran": true
+  },
+  {
+    "package": "rJava",
+    "oncran": true
   }
 ]
