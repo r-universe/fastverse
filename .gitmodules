@@ -311,3 +311,8 @@
 	url = https://github.com/s-u/rJava
 	shallow = true
 	registered = true
+[submodule "s2"]
+	path = s2
+	url = https://github.com/r-spatial/s2
+	shallow = true
+	registered = true

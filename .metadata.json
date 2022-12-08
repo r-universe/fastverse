@@ -239,5 +239,9 @@
   {
     "package": "rJava",
     "oncran": true
+  },
+  {
+    "package": "s2",
+    "oncran": true
   }
 ]
