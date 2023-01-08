@@ -136,7 +136,8 @@
     "oncran": true
   },
   {
-    "package": "tidyft"
+    "package": "tidyft",
+    "oncran": false
   },
   {
     "package": "maditr",
