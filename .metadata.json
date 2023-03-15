@@ -129,7 +129,7 @@
   },
   {
     "package": "tidyfast",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "tidyfst",
@@ -230,7 +230,7 @@
   },
   {
     "package": "JuliaConnectoR",
-    "oncran": false
+    "oncran": true
   },
   {
     "package": "rextendr",
