@@ -1,202 +1,153 @@
 [
   {
-    "package": "fastverse",
-    "oncran": true
+    "package": "fastverse"
   },
   {
-    "package": "collapse",
-    "oncran": true
+    "package": "collapse"
   },
   {
-    "package": "data.table",
-    "oncran": true
+    "package": "data.table"
   },
   {
-    "package": "matrixStats",
-    "oncran": true
+    "package": "matrixStats"
   },
   {
-    "package": "kit",
-    "oncran": true
+    "package": "kit"
   },
   {
-    "package": "magrittr",
-    "oncran": true
+    "package": "magrittr"
   },
   {
-    "package": "fst",
-    "oncran": true
+    "package": "fst"
   },
   {
-    "package": "xts",
-    "oncran": true
+    "package": "xts"
   },
   {
-    "package": "roll",
-    "oncran": true
+    "package": "roll"
   },
   {
-    "package": "Rfast",
-    "oncran": true
+    "package": "Rfast"
   },
   {
-    "package": "qs",
-    "oncran": true
+    "package": "qs"
   },
   {
-    "package": "fixest",
-    "oncran": true
+    "package": "fixest"
   },
   {
-    "package": "lubridate",
-    "oncran": true
+    "package": "lubridate"
   },
   {
-    "package": "anytime",
-    "oncran": true
+    "package": "anytime"
   },
   {
-    "package": "nanotime",
-    "oncran": true
+    "package": "nanotime"
   },
   {
-    "package": "fasttime",
-    "oncran": true
+    "package": "fasttime"
   },
   {
-    "package": "clock",
-    "oncran": true
+    "package": "clock"
   },
   {
-    "package": "timechange",
-    "oncran": true
+    "package": "timechange"
   },
   {
-    "package": "stringi",
-    "oncran": true
+    "package": "stringi"
   },
   {
-    "package": "stringr",
-    "oncran": true
+    "package": "stringr"
   },
   {
-    "package": "snakecase",
-    "oncran": true
+    "package": "snakecase"
   },
   {
-    "package": "stringfish",
-    "oncran": true
+    "package": "stringfish"
   },
   {
-    "package": "stringdist",
-    "oncran": true
+    "package": "stringdist"
   },
   {
-    "package": "Rfast2",
-    "oncran": true
+    "package": "Rfast2"
   },
   {
-    "package": "parallelDist",
-    "oncran": true
+    "package": "parallelDist"
   },
   {
-    "package": "coop",
-    "oncran": true
+    "package": "coop"
   },
   {
-    "package": "rsparse",
-    "oncran": true
+    "package": "rsparse"
   },
   {
-    "package": "MatrixExtra",
-    "oncran": true
+    "package": "MatrixExtra"
   },
   {
-    "package": "rrapply",
-    "oncran": true
+    "package": "rrapply"
   },
   {
-    "package": "tidytable",
-    "oncran": true
+    "package": "tidytable"
   },
   {
-    "package": "fastmatch",
-    "oncran": true
+    "package": "fastmatch"
   },
   {
-    "package": "fastmap",
-    "oncran": true
+    "package": "fastmap"
   },
   {
-    "package": "tidyfast",
-    "oncran": true
+    "package": "tidyfast"
   },
   {
-    "package": "tidyfst",
-    "oncran": true
+    "package": "tidyfst"
   },
   {
-    "package": "tidyft",
-    "oncran": true
+    "package": "tidyft"
   },
   {
-    "package": "maditr",
-    "oncran": true
+    "package": "maditr"
   },
   {
-    "package": "geos",
-    "oncran": true
+    "package": "geos"
   },
   {
-    "package": "arrow",
-    "oncran": true
+    "package": "arrow"
   },
   {
-    "package": "dqrng",
-    "oncran": true
+    "package": "dqrng"
   },
   {
-    "package": "vctrs",
-    "oncran": true
+    "package": "vctrs"
   },
   {
-    "package": "fastmatrix",
-    "oncran": true
+    "package": "fastmatrix"
   },
   {
-    "package": "matrixTests",
-    "oncran": true
+    "package": "matrixTests"
   },
   {
-    "package": "hutilscpp",
-    "oncran": true
+    "package": "hutilscpp"
   },
   {
-    "package": "dtplyr",
-    "oncran": true
+    "package": "dtplyr"
   },
   {
-    "package": "table.express",
-    "oncran": true
+    "package": "table.express"
   },
   {
-    "package": "duckdb",
-    "oncran": true
+    "package": "duckdb"
   },
   {
-    "package": "vroom",
-    "oncran": true
+    "package": "vroom"
   },
   {
     "package": "nCompiler"
   },
   {
-    "package": "ast2ast",
-    "oncran": true
+    "package": "ast2ast"
   },
   {
-    "package": "odin",
-    "oncran": true
+    "package": "odin"
   },
   {
     "package": "armacmp"
@@ -205,43 +156,33 @@
     "package": "r2c"
   },
   {
-    "package": "inline",
-    "oncran": true
+    "package": "inline"
   },
   {
-    "package": "Rcpp",
-    "oncran": true
+    "package": "Rcpp"
   },
   {
-    "package": "cpp11",
-    "oncran": true
+    "package": "cpp11"
   },
   {
-    "package": "tidyCpp",
-    "oncran": true
+    "package": "tidyCpp"
   },
   {
-    "package": "JuliaCall",
-    "oncran": true
+    "package": "JuliaCall"
   },
   {
-    "package": "XRJulia",
-    "oncran": false
+    "package": "XRJulia"
   },
   {
-    "package": "JuliaConnectoR",
-    "oncran": true
+    "package": "JuliaConnectoR"
   },
   {
-    "package": "rextendr",
-    "oncran": true
+    "package": "rextendr"
   },
   {
-    "package": "rJava",
-    "oncran": true
+    "package": "rJava"
   },
   {
-    "package": "s2",
-    "oncran": true
+    "package": "s2"
   }
 ]
