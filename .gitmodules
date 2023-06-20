@@ -134,11 +134,6 @@
 	url = https://github.com/wrathematics/coop
 	shallow = true
 	registered = true
-[submodule "rsparse"]
-	path = rsparse
-	url = https://github.com/rexyai/rsparse
-	shallow = true
-	registered = true
 [submodule "MatrixExtra"]
 	path = MatrixExtra
 	url = https://github.com/david-cortes/MatrixExtra
@@ -209,6 +204,7 @@
 	path = fastmatrix
 	url = https://github.com/faosorios/fastmatrix
 	shallow = true
+	subdir = pkg
 	registered = true
 [submodule "matrixTests"]
 	path = matrixTests
@@ -245,6 +241,7 @@
 	path = nCompiler
 	url = https://github.com/nimble-dev/nCompiler
 	shallow = true
+	subdir = nCompiler
 	registered = true
 [submodule "ast2ast"]
 	path = ast2ast
@@ -306,13 +303,13 @@
 	url = https://github.com/extendr/rextendr
 	shallow = true
 	registered = true
-[submodule "rJava"]
-	path = rJava
-	url = https://github.com/s-u/rJava
-	shallow = true
-	registered = true
 [submodule "s2"]
 	path = s2
 	url = https://github.com/r-spatial/s2
+	shallow = true
+	registered = true
+[submodule "polars"]
+	path = polars
+	url = https://github.com/pola-rs/r-polars
 	shallow = true
 	registered = true
