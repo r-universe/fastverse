@@ -1,304 +1,185 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/fastverse/fastverse.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "fastverse"]
 	path = fastverse
 	url = https://github.com/fastverse/fastverse
-	shallow = true
-	registered = true
 [submodule "collapse"]
 	path = collapse
 	url = https://github.com/SebKrantz/collapse
-	shallow = true
-	registered = true
 [submodule "data.table"]
 	path = data.table
 	url = https://github.com/Rdatatable/data.table
-	shallow = true
-	registered = true
 [submodule "matrixStats"]
 	path = matrixStats
 	url = https://github.com/HenrikBengtsson/matrixStats
-	shallow = true
-	registered = true
 [submodule "kit"]
 	path = kit
 	url = https://github.com/2005m/kit
-	shallow = true
-	registered = true
 [submodule "magrittr"]
 	path = magrittr
 	url = https://github.com/tidyverse/magrittr
-	shallow = true
-	registered = true
 [submodule "fst"]
 	path = fst
 	url = https://github.com/fstpackage/fst
-	shallow = true
-	registered = true
 [submodule "xts"]
 	path = xts
 	url = https://github.com/joshuaulrich/xts
-	shallow = true
-	registered = true
 [submodule "roll"]
 	path = roll
 	url = https://github.com/jjf234/roll
-	shallow = true
-	registered = true
 [submodule "Rfast"]
 	path = Rfast
 	url = https://github.com/RfastOfficial/Rfast
-	shallow = true
-	registered = true
 [submodule "qs"]
 	path = qs
 	url = https://github.com/traversc/qs
-	shallow = true
-	registered = true
 [submodule "fixest"]
 	path = fixest
 	url = https://github.com/lrberge/fixest
-	shallow = true
-	registered = true
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
-	shallow = true
-	registered = true
 [submodule "anytime"]
 	path = anytime
 	url = https://github.com/eddelbuettel/anytime
-	shallow = true
-	registered = true
 [submodule "nanotime"]
 	path = nanotime
 	url = https://github.com/eddelbuettel/nanotime
-	shallow = true
-	registered = true
 [submodule "fasttime"]
 	path = fasttime
 	url = https://github.com/s-u/fasttime
-	shallow = true
-	registered = true
 [submodule "clock"]
 	path = clock
 	url = https://github.com/r-lib/clock
-	shallow = true
-	registered = true
 [submodule "timechange"]
 	path = timechange
 	url = https://github.com/vspinu/timechange
-	shallow = true
-	registered = true
 [submodule "stringi"]
 	path = stringi
 	url = https://github.com/gagolews/stringi
-	shallow = true
-	registered = true
 [submodule "stringr"]
 	path = stringr
 	url = https://github.com/tidyverse/stringr
-	shallow = true
-	registered = true
 [submodule "snakecase"]
 	path = snakecase
 	url = https://github.com/Tazinho/snakecase
-	shallow = true
-	registered = true
 [submodule "stringfish"]
 	path = stringfish
 	url = https://github.com/traversc/stringfish
-	shallow = true
-	registered = true
 [submodule "stringdist"]
 	path = stringdist
 	url = https://github.com/markvanderloo/stringdist
-	shallow = true
 	subdir = pkg
-	registered = true
 [submodule "Rfast2"]
 	path = Rfast2
 	url = https://github.com/RfastOfficial/Rfast2
-	shallow = true
-	registered = true
 [submodule "parallelDist"]
 	path = parallelDist
 	url = https://github.com/alexeckert/parallelDist
-	shallow = true
-	registered = true
 [submodule "coop"]
 	path = coop
 	url = https://github.com/wrathematics/coop
-	shallow = true
-	registered = true
 [submodule "MatrixExtra"]
 	path = MatrixExtra
 	url = https://github.com/david-cortes/MatrixExtra
-	shallow = true
-	registered = true
 [submodule "rrapply"]
 	path = rrapply
 	url = https://github.com/JorisChau/rrapply
-	shallow = true
-	registered = true
 [submodule "tidytable"]
 	path = tidytable
 	url = https://github.com/markfairbanks/tidytable
-	shallow = true
-	registered = true
 [submodule "fastmatch"]
 	path = fastmatch
 	url = https://github.com/s-u/fastmatch
-	shallow = true
-	registered = true
 [submodule "fastmap"]
 	path = fastmap
 	url = https://github.com/r-lib/fastmap
-	shallow = true
-	registered = true
 [submodule "tidyfast"]
 	path = tidyfast
 	url = https://github.com/TysonStanley/tidyfast
-	shallow = true
-	registered = true
 [submodule "tidyfst"]
 	path = tidyfst
 	url = https://github.com/hope-data-science/tidyfst
-	shallow = true
-	registered = true
 [submodule "tidyft"]
 	path = tidyft
 	url = https://github.com/hope-data-science/tidyft
-	shallow = true
-	registered = true
 [submodule "maditr"]
 	path = maditr
 	url = https://github.com/gdemin/maditr
-	shallow = true
-	registered = true
 [submodule "geos"]
 	path = geos
 	url = https://github.com/paleolimbot/geos
-	shallow = true
-	registered = true
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
-	shallow = true
 	subdir = r
-	registered = true
 [submodule "dqrng"]
 	path = dqrng
 	url = https://github.com/daqana/dqrng
-	shallow = true
-	registered = true
 [submodule "vctrs"]
 	path = vctrs
 	url = https://github.com/r-lib/vctrs
-	shallow = true
-	registered = true
 [submodule "fastmatrix"]
 	path = fastmatrix
 	url = https://github.com/faosorios/fastmatrix
-	shallow = true
 	subdir = pkg
-	registered = true
 [submodule "matrixTests"]
 	path = matrixTests
 	url = https://github.com/karoliskoncevicius/matrixTests
-	shallow = true
-	registered = true
 [submodule "hutilscpp"]
 	path = hutilscpp
 	url = https://github.com/hughparsonage/hutilscpp
-	shallow = true
-	registered = true
 [submodule "dtplyr"]
 	path = dtplyr
 	url = https://github.com/tidyverse/dtplyr
-	shallow = true
-	registered = true
 [submodule "table.express"]
 	path = table.express
 	url = https://github.com/asardaes/table.express
-	shallow = true
-	registered = true
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb
-	shallow = true
 	subdir = tools/rpkg
-	registered = true
 [submodule "vroom"]
 	path = vroom
 	url = https://github.com/tidyverse/vroom
-	shallow = true
-	registered = true
 [submodule "ast2ast"]
 	path = ast2ast
 	url = https://github.com/Konrad1991/ast2ast
-	shallow = true
-	registered = true
 [submodule "odin"]
 	path = odin
 	url = https://github.com/mrc-ide/odin
-	shallow = true
-	registered = true
 [submodule "armacmp"]
 	path = armacmp
 	url = https://github.com/dirkschumacher/armacmp
-	shallow = true
-	registered = true
 [submodule "r2c"]
 	path = r2c
 	url = https://github.com/brodieG/r2c
-	shallow = true
-	registered = true
 [submodule "inline"]
 	path = inline
 	url = https://github.com/eddelbuettel/inline
-	shallow = true
-	registered = true
 [submodule "Rcpp"]
 	path = Rcpp
 	url = https://github.com/RcppCore/Rcpp
-	shallow = true
-	registered = true
 [submodule "cpp11"]
 	path = cpp11
 	url = https://github.com/r-lib/cpp11
-	shallow = true
-	registered = true
 [submodule "tidyCpp"]
 	path = tidyCpp
 	url = https://github.com/eddelbuettel/tidycpp
-	shallow = true
-	registered = true
 [submodule "JuliaCall"]
 	path = JuliaCall
 	url = https://github.com/Non-Contradiction/JuliaCall
-	shallow = true
-	registered = true
 [submodule "XRJulia"]
 	path = XRJulia
 	url = https://github.com/johnmchambers/XRJulia
-	shallow = true
-	registered = true
 [submodule "JuliaConnectoR"]
 	path = JuliaConnectoR
 	url = https://github.com/stefan-m-lenz/JuliaConnectoR
-	shallow = true
-	registered = true
 [submodule "rextendr"]
 	path = rextendr
 	url = https://github.com/extendr/rextendr
-	shallow = true
-	registered = true
 [submodule "s2"]
 	path = s2
 	url = https://github.com/r-spatial/s2
-	shallow = true
-	registered = true
