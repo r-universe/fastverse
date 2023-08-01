@@ -2,100 +2,163 @@
 	path = .registry
 	url = https://github.com/fastverse/fastverse.r-universe.dev
 	branch = HEAD
-[submodule "fastverse"]
-	path = fastverse
-	url = https://github.com/fastverse/fastverse
-[submodule "collapse"]
-	path = collapse
-	url = https://github.com/SebKrantz/collapse
-[submodule "data.table"]
-	path = data.table
-	url = https://github.com/Rdatatable/data.table
-[submodule "matrixStats"]
-	path = matrixStats
-	url = https://github.com/HenrikBengtsson/matrixStats
-[submodule "kit"]
-	path = kit
-	url = https://github.com/2005m/kit
-[submodule "magrittr"]
-	path = magrittr
-	url = https://github.com/tidyverse/magrittr
-[submodule "fst"]
-	path = fst
-	url = https://github.com/fstpackage/fst
-[submodule "xts"]
-	path = xts
-	url = https://github.com/joshuaulrich/xts
-[submodule "roll"]
-	path = roll
-	url = https://github.com/jjf234/roll
+[submodule "JuliaCall"]
+	path = JuliaCall
+	url = https://github.com/Non-Contradiction/JuliaCall
+[submodule "JuliaConnectoR"]
+	path = JuliaConnectoR
+	url = https://github.com/stefan-m-lenz/JuliaConnectoR
+[submodule "MatrixExtra"]
+	path = MatrixExtra
+	url = https://github.com/david-cortes/MatrixExtra
+[submodule "Rcpp"]
+	path = Rcpp
+	url = https://github.com/RcppCore/Rcpp
 [submodule "Rfast"]
 	path = Rfast
 	url = https://github.com/RfastOfficial/Rfast
-[submodule "qs"]
-	path = qs
-	url = https://github.com/traversc/qs
-[submodule "fixest"]
-	path = fixest
-	url = https://github.com/lrberge/fixest
-[submodule "lubridate"]
-	path = lubridate
-	url = https://github.com/tidyverse/lubridate
+[submodule "Rfast2"]
+	path = Rfast2
+	url = https://github.com/RfastOfficial/Rfast2
+[submodule "XRJulia"]
+	path = XRJulia
+	url = https://github.com/johnmchambers/XRJulia
 [submodule "anytime"]
 	path = anytime
 	url = https://github.com/eddelbuettel/anytime
-[submodule "nanotime"]
-	path = nanotime
-	url = https://github.com/eddelbuettel/nanotime
-[submodule "fasttime"]
-	path = fasttime
-	url = https://github.com/s-u/fasttime
+[submodule "armacmp"]
+	path = armacmp
+	url = https://github.com/dirkschumacher/armacmp
+[submodule "arrow"]
+	path = arrow
+	url = https://github.com/apache/arrow
+	subdir = r
+[submodule "ast2ast"]
+	path = ast2ast
+	url = https://github.com/Konrad1991/ast2ast
 [submodule "clock"]
 	path = clock
 	url = https://github.com/r-lib/clock
-[submodule "timechange"]
-	path = timechange
-	url = https://github.com/vspinu/timechange
+[submodule "collapse"]
+	path = collapse
+	url = https://github.com/SebKrantz/collapse
+[submodule "coop"]
+	path = coop
+	url = https://github.com/wrathematics/coop
+[submodule "cpp11"]
+	path = cpp11
+	url = https://github.com/r-lib/cpp11
+[submodule "data.table"]
+	path = data.table
+	url = https://github.com/Rdatatable/data.table
+[submodule "dqrng"]
+	path = dqrng
+	url = https://github.com/daqana/dqrng
+[submodule "dtplyr"]
+	path = dtplyr
+	url = https://github.com/tidyverse/dtplyr
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/duckdb/duckdb
+	subdir = tools/rpkg
+[submodule "fastmap"]
+	path = fastmap
+	url = https://github.com/r-lib/fastmap
+[submodule "fastmatch"]
+	path = fastmatch
+	url = https://github.com/s-u/fastmatch
+[submodule "fastmatrix"]
+	path = fastmatrix
+	url = https://github.com/faosorios/fastmatrix
+	subdir = pkg
+[submodule "fasttime"]
+	path = fasttime
+	url = https://github.com/s-u/fasttime
+[submodule "fastverse"]
+	path = fastverse
+	url = https://github.com/fastverse/fastverse
+[submodule "fixest"]
+	path = fixest
+	url = https://github.com/lrberge/fixest
+[submodule "fst"]
+	path = fst
+	url = https://github.com/fstpackage/fst
+[submodule "geos"]
+	path = geos
+	url = https://github.com/paleolimbot/geos
+[submodule "hutilscpp"]
+	path = hutilscpp
+	url = https://github.com/hughparsonage/hutilscpp
+[submodule "inline"]
+	path = inline
+	url = https://github.com/eddelbuettel/inline
+[submodule "kit"]
+	path = kit
+	url = https://github.com/2005m/kit
+[submodule "lubridate"]
+	path = lubridate
+	url = https://github.com/tidyverse/lubridate
+[submodule "maditr"]
+	path = maditr
+	url = https://github.com/gdemin/maditr
+[submodule "magrittr"]
+	path = magrittr
+	url = https://github.com/tidyverse/magrittr
+[submodule "matrixStats"]
+	path = matrixStats
+	url = https://github.com/HenrikBengtsson/matrixStats
+[submodule "matrixTests"]
+	path = matrixTests
+	url = https://github.com/karoliskoncevicius/matrixTests
+[submodule "nanotime"]
+	path = nanotime
+	url = https://github.com/eddelbuettel/nanotime
+[submodule "odin"]
+	path = odin
+	url = https://github.com/mrc-ide/odin
+[submodule "parallelDist"]
+	path = parallelDist
+	url = https://github.com/alexeckert/parallelDist
+[submodule "qs"]
+	path = qs
+	url = https://github.com/traversc/qs
+[submodule "r2c"]
+	path = r2c
+	url = https://github.com/brodieG/r2c
+[submodule "rextendr"]
+	path = rextendr
+	url = https://github.com/extendr/rextendr
+[submodule "roll"]
+	path = roll
+	url = https://github.com/jjf234/roll
+[submodule "rrapply"]
+	path = rrapply
+	url = https://github.com/JorisChau/rrapply
+[submodule "s2"]
+	path = s2
+	url = https://github.com/r-spatial/s2
+[submodule "snakecase"]
+	path = snakecase
+	url = https://github.com/Tazinho/snakecase
+[submodule "stringdist"]
+	path = stringdist
+	url = https://github.com/markvanderloo/stringdist
+	subdir = pkg
+[submodule "stringfish"]
+	path = stringfish
+	url = https://github.com/traversc/stringfish
 [submodule "stringi"]
 	path = stringi
 	url = https://github.com/gagolews/stringi
 [submodule "stringr"]
 	path = stringr
 	url = https://github.com/tidyverse/stringr
-[submodule "snakecase"]
-	path = snakecase
-	url = https://github.com/Tazinho/snakecase
-[submodule "stringfish"]
-	path = stringfish
-	url = https://github.com/traversc/stringfish
-[submodule "stringdist"]
-	path = stringdist
-	url = https://github.com/markvanderloo/stringdist
-	subdir = pkg
-[submodule "Rfast2"]
-	path = Rfast2
-	url = https://github.com/RfastOfficial/Rfast2
-[submodule "parallelDist"]
-	path = parallelDist
-	url = https://github.com/alexeckert/parallelDist
-[submodule "coop"]
-	path = coop
-	url = https://github.com/wrathematics/coop
-[submodule "MatrixExtra"]
-	path = MatrixExtra
-	url = https://github.com/david-cortes/MatrixExtra
-[submodule "rrapply"]
-	path = rrapply
-	url = https://github.com/JorisChau/rrapply
-[submodule "tidytable"]
-	path = tidytable
-	url = https://github.com/markfairbanks/tidytable
-[submodule "fastmatch"]
-	path = fastmatch
-	url = https://github.com/s-u/fastmatch
-[submodule "fastmap"]
-	path = fastmap
-	url = https://github.com/r-lib/fastmap
+[submodule "table.express"]
+	path = table.express
+	url = https://github.com/asardaes/table.express
+[submodule "tidyCpp"]
+	path = tidyCpp
+	url = https://github.com/eddelbuettel/tidycpp
 [submodule "tidyfast"]
 	path = tidyfast
 	url = https://github.com/TysonStanley/tidyfast
@@ -105,81 +168,18 @@
 [submodule "tidyft"]
 	path = tidyft
 	url = https://github.com/hope-data-science/tidyft
-[submodule "maditr"]
-	path = maditr
-	url = https://github.com/gdemin/maditr
-[submodule "geos"]
-	path = geos
-	url = https://github.com/paleolimbot/geos
-[submodule "arrow"]
-	path = arrow
-	url = https://github.com/apache/arrow
-	subdir = r
-[submodule "dqrng"]
-	path = dqrng
-	url = https://github.com/daqana/dqrng
+[submodule "tidytable"]
+	path = tidytable
+	url = https://github.com/markfairbanks/tidytable
+[submodule "timechange"]
+	path = timechange
+	url = https://github.com/vspinu/timechange
 [submodule "vctrs"]
 	path = vctrs
 	url = https://github.com/r-lib/vctrs
-[submodule "fastmatrix"]
-	path = fastmatrix
-	url = https://github.com/faosorios/fastmatrix
-	subdir = pkg
-[submodule "matrixTests"]
-	path = matrixTests
-	url = https://github.com/karoliskoncevicius/matrixTests
-[submodule "hutilscpp"]
-	path = hutilscpp
-	url = https://github.com/hughparsonage/hutilscpp
-[submodule "dtplyr"]
-	path = dtplyr
-	url = https://github.com/tidyverse/dtplyr
-[submodule "table.express"]
-	path = table.express
-	url = https://github.com/asardaes/table.express
-[submodule "duckdb"]
-	path = duckdb
-	url = https://github.com/duckdb/duckdb
-	subdir = tools/rpkg
 [submodule "vroom"]
 	path = vroom
 	url = https://github.com/tidyverse/vroom
-[submodule "ast2ast"]
-	path = ast2ast
-	url = https://github.com/Konrad1991/ast2ast
-[submodule "odin"]
-	path = odin
-	url = https://github.com/mrc-ide/odin
-[submodule "armacmp"]
-	path = armacmp
-	url = https://github.com/dirkschumacher/armacmp
-[submodule "r2c"]
-	path = r2c
-	url = https://github.com/brodieG/r2c
-[submodule "inline"]
-	path = inline
-	url = https://github.com/eddelbuettel/inline
-[submodule "Rcpp"]
-	path = Rcpp
-	url = https://github.com/RcppCore/Rcpp
-[submodule "cpp11"]
-	path = cpp11
-	url = https://github.com/r-lib/cpp11
-[submodule "tidyCpp"]
-	path = tidyCpp
-	url = https://github.com/eddelbuettel/tidycpp
-[submodule "JuliaCall"]
-	path = JuliaCall
-	url = https://github.com/Non-Contradiction/JuliaCall
-[submodule "XRJulia"]
-	path = XRJulia
-	url = https://github.com/johnmchambers/XRJulia
-[submodule "JuliaConnectoR"]
-	path = JuliaConnectoR
-	url = https://github.com/stefan-m-lenz/JuliaConnectoR
-[submodule "rextendr"]
-	path = rextendr
-	url = https://github.com/extendr/rextendr
-[submodule "s2"]
-	path = s2
-	url = https://github.com/r-spatial/s2
+[submodule "xts"]
+	path = xts
+	url = https://github.com/joshuaulrich/xts
