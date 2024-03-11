@@ -51,6 +51,9 @@
 [submodule "data.table"]
 	path = data.table
 	url = https://github.com/Rdatatable/data.table
+[submodule "dggridR"]
+	path = dggridR
+	url = https://github.com/SebKrantz/dggridR
 [submodule "dqrng"]
 	path = dqrng
 	url = https://github.com/daqana/dqrng
