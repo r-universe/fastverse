@@ -48,6 +48,9 @@
 [submodule "cpp11"]
 	path = cpp11
 	url = https://github.com/r-lib/cpp11
+[submodule "cppRouting"]
+	path = cppRouting
+	url = https://github.com/vlarmet/cppRouting
 [submodule "data.table"]
 	path = data.table
 	url = https://github.com/Rdatatable/data.table
@@ -60,6 +63,9 @@
 [submodule "dtplyr"]
 	path = dtplyr
 	url = https://github.com/tidyverse/dtplyr
+[submodule "exactextractr"]
+	path = exactextractr
+	url = https://github.com/isciences/exactextractr
 [submodule "fastmap"]
 	path = fastmap
 	url = https://github.com/r-lib/fastmap
@@ -82,12 +88,18 @@
 [submodule "fst"]
 	path = fst
 	url = https://github.com/fstpackage/fst
+[submodule "geodist"]
+	path = geodist
+	url = https://github.com/hypertidy/geodist
 [submodule "geos"]
 	path = geos
 	url = https://github.com/paleolimbot/geos
 [submodule "hutilscpp"]
 	path = hutilscpp
 	url = https://github.com/hughparsonage/hutilscpp
+[submodule "igraph"]
+	path = igraph
+	url = https://github.com/igraph/rigraph
 [submodule "inline"]
 	path = inline
 	url = https://github.com/eddelbuettel/inline
@@ -129,7 +141,7 @@
 	url = https://github.com/extendr/rextendr
 [submodule "roll"]
 	path = roll
-	url = https://github.com/jjf234/roll
+	url = https://github.com/jasonjfoster/roll
 [submodule "rrapply"]
 	path = rrapply
 	url = https://github.com/JorisChau/rrapply
@@ -139,6 +151,9 @@
 [submodule "snakecase"]
 	path = snakecase
 	url = https://github.com/Tazinho/snakecase
+[submodule "stars"]
+	path = stars
+	url = https://github.com/r-spatial/stars
 [submodule "stringdist"]
 	path = stringdist
 	url = https://github.com/markvanderloo/stringdist
@@ -149,12 +164,12 @@
 [submodule "stringi"]
 	path = stringi
 	url = https://github.com/gagolews/stringi
-[submodule "stringr"]
-	path = stringr
-	url = https://github.com/tidyverse/stringr
 [submodule "table.express"]
 	path = table.express
 	url = https://github.com/asardaes/table.express
+[submodule "terra"]
+	path = terra
+	url = https://github.com/rspatial/terra
 [submodule "tidyCpp"]
 	path = tidyCpp
 	url = https://github.com/eddelbuettel/tidycpp
@@ -173,6 +188,9 @@
 [submodule "timechange"]
 	path = timechange
 	url = https://github.com/vspinu/timechange
+[submodule "tinyplot"]
+	path = tinyplot
+	url = https://github.com/grantmcdermott/tinyplot
 [submodule "vctrs"]
 	path = vctrs
 	url = https://github.com/r-lib/vctrs
