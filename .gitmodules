@@ -121,6 +121,9 @@
 [submodule "matrixTests"]
 	path = matrixTests
 	url = https://github.com/karoliskoncevicius/matrixTests
+[submodule "mirai"]
+	path = mirai
+	url = https://github.com/shikokuchuo/mirai
 [submodule "nanotime"]
 	path = nanotime
 	url = https://github.com/eddelbuettel/nanotime
