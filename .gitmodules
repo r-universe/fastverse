@@ -151,10 +151,6 @@
 [submodule "s2"]
 	path = s2
 	url = https://github.com/r-spatial/s2
-[submodule "sf"]
-	path = sf
-	url = https://github.com/r-spatial/sf
-	registered = false
 [submodule "snakecase"]
 	path = snakecase
 	url = https://github.com/Tazinho/snakecase
