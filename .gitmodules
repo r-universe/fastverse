@@ -198,6 +198,10 @@
 [submodule "tinyplot"]
 	path = tinyplot
 	url = https://github.com/grantmcdermott/tinyplot
+[submodule "tzdb"]
+	path = tzdb
+	url = https://github.com/r-lib/tzdb
+	registered = false
 [submodule "vctrs"]
 	path = vctrs
 	url = https://github.com/r-lib/vctrs
