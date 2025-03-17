@@ -4,11 +4,5 @@
     "url": "https://github.com/etiennebacher/altdoc",
     "via": ["tinyplot"],
     "from": "tinyplot"
-  },
-  {
-    "package": "tzdb",
-    "url": "https://github.com/r-lib/tzdb",
-    "via": ["clock"],
-    "from": "clock"
   }
 ]
