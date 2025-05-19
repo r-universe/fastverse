@@ -23,10 +23,6 @@
 [submodule "XRJulia"]
 	path = XRJulia
 	url = https://github.com/johnmchambers/XRJulia
-[submodule "altdoc"]
-	path = altdoc
-	url = https://github.com/etiennebacher/altdoc
-	registered = false
 [submodule "anytime"]
 	path = anytime
 	url = https://github.com/eddelbuettel/anytime
