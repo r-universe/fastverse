@@ -4,5 +4,11 @@
     "url": "https://github.com/etiennebacher/altdoc",
     "via": ["tinyplot"],
     "from": "tinyplot"
+  },
+  {
+    "package": "nanonext",
+    "url": "https://github.com/r-lib/nanonext",
+    "via": ["mirai"],
+    "from": "mirai"
   }
 ]
