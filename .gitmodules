@@ -142,6 +142,10 @@
 [submodule "rextendr"]
 	path = rextendr
 	url = https://github.com/extendr/rextendr
+[submodule "rlang"]
+	path = rlang
+	url = https://github.com/r-lib/rlang
+	registered = false
 [submodule "roll"]
 	path = roll
 	url = https://github.com/jasonjfoster/roll
