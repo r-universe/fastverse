@@ -32,9 +32,6 @@
 [submodule "anytime"]
 	path = anytime
 	url = https://github.com/eddelbuettel/anytime
-[submodule "armacmp"]
-	path = armacmp
-	url = https://github.com/dirkschumacher/armacmp
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
@@ -78,10 +75,6 @@
 [submodule "dtplyr"]
 	path = dtplyr
 	url = https://github.com/tidyverse/dtplyr
-[submodule "duckdb"]
-	path = duckdb
-	url = https://github.com/duckdb/duckdb
-	subdir = tools/rpkg
 [submodule "duckplyr"]
 	path = duckplyr
 	url = https://github.com/tidyverse/duckplyr
@@ -158,9 +151,6 @@
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
-[submodule "nCompiler"]
-	path = nCompiler
-	url = https://github.com/nimble-dev/nCompiler
 [submodule "nanotime"]
 	path = nanotime
 	url = https://github.com/eddelbuettel/nanotime
@@ -182,9 +172,6 @@
 [submodule "r2c"]
 	path = r2c
 	url = https://github.com/brodieG/r2c
-[submodule "rJava"]
-	path = rJava
-	url = https://github.com/s-u/rJava
 [submodule "rextendr"]
 	path = rextendr
 	url = https://github.com/extendr/rextendr
@@ -247,9 +234,6 @@
 [submodule "tidyft"]
 	path = tidyft
 	url = https://github.com/hope-data-science/tidyft
-[submodule "tidypolars"]
-	path = tidypolars
-	url = https://github.com/etiennebacher/tidypolars
 [submodule "tidytable"]
 	path = tidytable
 	url = https://github.com/markfairbanks/tidytable
@@ -271,6 +255,3 @@
 [submodule "xts"]
 	path = xts
 	url = https://github.com/joshuaulrich/xts
-[submodule "zoo"]
-	path = zoo
-	url = https://github.com/r-forge/zoo
