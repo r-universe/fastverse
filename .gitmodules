@@ -14,12 +14,18 @@
 [submodule "Rcpp"]
 	path = Rcpp
 	url = https://github.com/RcppCore/Rcpp
+[submodule "RcppAlgos"]
+	path = RcppAlgos
+	url = https://github.com/jwood000/RcppAlgos
 [submodule "Rfast"]
 	path = Rfast
 	url = https://github.com/RfastOfficial/Rfast
 [submodule "Rfast2"]
 	path = Rfast2
 	url = https://github.com/RfastOfficial/Rfast2
+[submodule "SLmetrics"]
+	path = SLmetrics
+	url = https://github.com/serkor1/SLmetrics
 [submodule "XRJulia"]
 	path = XRJulia
 	url = https://github.com/johnmchambers/XRJulia
@@ -36,12 +42,21 @@
 [submodule "ast2ast"]
 	path = ast2ast
 	url = https://github.com/Konrad1991/ast2ast
+[submodule "broadcast"]
+	path = broadcast
+	url = https://github.com/tony-aw/broadcast
+[submodule "cheapr"]
+	path = cheapr
+	url = https://github.com/NicChr/cheapr
 [submodule "clock"]
 	path = clock
 	url = https://github.com/r-lib/clock
 [submodule "collapse"]
 	path = collapse
 	url = https://github.com/SebKrantz/collapse
+[submodule "collections"]
+	path = collections
+	url = https://github.com/randy3k/collections
 [submodule "coop"]
 	path = coop
 	url = https://github.com/wrathematics/coop
@@ -63,6 +78,13 @@
 [submodule "dtplyr"]
 	path = dtplyr
 	url = https://github.com/tidyverse/dtplyr
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/duckdb/duckdb
+	subdir = tools/rpkg
+[submodule "duckplyr"]
+	path = duckplyr
+	url = https://github.com/tidyverse/duckplyr
 [submodule "exactextractr"]
 	path = exactextractr
 	url = https://github.com/isciences/exactextractr
@@ -76,6 +98,9 @@
 	path = fastmatrix
 	url = https://github.com/faosorios/fastmatrix
 	subdir = pkg
+[submodule "fastplyr"]
+	path = fastplyr
+	url = https://github.com/NicChr/fastplyr
 [submodule "fasttime"]
 	path = fasttime
 	url = https://github.com/s-u/fasttime
@@ -94,6 +119,12 @@
 [submodule "geos"]
 	path = geos
 	url = https://github.com/paleolimbot/geos
+[submodule "ggplot2"]
+	path = ggplot2
+	url = https://github.com/tidyverse/ggplot2
+[submodule "ggrastr"]
+	path = ggrastr
+	url = https://github.com/VPetukhov/ggrastr
 [submodule "hutilscpp"]
 	path = hutilscpp
 	url = https://github.com/hughparsonage/hutilscpp
@@ -105,7 +136,10 @@
 	url = https://github.com/eddelbuettel/inline
 [submodule "kit"]
 	path = kit
-	url = https://github.com/2005m/kit
+	url = https://github.com/fastverse/kit
+[submodule "lattice"]
+	path = lattice
+	url = https://github.com/deepayan/lattice
 [submodule "lubridate"]
 	path = lubridate
 	url = https://github.com/tidyverse/lubridate
@@ -124,6 +158,9 @@
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
+[submodule "nCompiler"]
+	path = nCompiler
+	url = https://github.com/nimble-dev/nCompiler
 [submodule "nanotime"]
 	path = nanotime
 	url = https://github.com/eddelbuettel/nanotime
@@ -133,12 +170,21 @@
 [submodule "parallelDist"]
 	path = parallelDist
 	url = https://github.com/alexeckert/parallelDist
+[submodule "polars"]
+	path = polars
+	url = https://github.com/pola-rs/r-polars
 [submodule "qs"]
 	path = qs
 	url = https://github.com/traversc/qs
+[submodule "quickr"]
+	path = quickr
+	url = https://github.com/t-kalinowski/quickr
 [submodule "r2c"]
 	path = r2c
 	url = https://github.com/brodieG/r2c
+[submodule "rJava"]
+	path = rJava
+	url = https://github.com/s-u/rJava
 [submodule "rextendr"]
 	path = rextendr
 	url = https://github.com/extendr/rextendr
@@ -155,12 +201,24 @@
 [submodule "s2"]
 	path = s2
 	url = https://github.com/r-spatial/s2
+[submodule "scales"]
+	path = scales
+	url = https://github.com/r-lib/scales
+[submodule "scattermore"]
+	path = scattermore
+	url = https://github.com/exaexa/scattermore
+[submodule "sf"]
+	path = sf
+	url = https://github.com/r-spatial/sf
 [submodule "snakecase"]
 	path = snakecase
 	url = https://github.com/Tazinho/snakecase
 [submodule "stars"]
 	path = stars
 	url = https://github.com/r-spatial/stars
+[submodule "stdvectors"]
+	path = stdvectors
+	url = https://github.com/digEmAll/stdvectors
 [submodule "stringdist"]
 	path = stringdist
 	url = https://github.com/markvanderloo/stringdist
@@ -189,12 +247,18 @@
 [submodule "tidyft"]
 	path = tidyft
 	url = https://github.com/hope-data-science/tidyft
+[submodule "tidypolars"]
+	path = tidypolars
+	url = https://github.com/etiennebacher/tidypolars
 [submodule "tidytable"]
 	path = tidytable
 	url = https://github.com/markfairbanks/tidytable
 [submodule "timechange"]
 	path = timechange
 	url = https://github.com/vspinu/timechange
+[submodule "timeplyr"]
+	path = timeplyr
+	url = https://github.com/NicChr/timeplyr
 [submodule "tinyplot"]
 	path = tinyplot
 	url = https://github.com/grantmcdermott/tinyplot
@@ -207,3 +271,6 @@
 [submodule "xts"]
 	path = xts
 	url = https://github.com/joshuaulrich/xts
+[submodule "zoo"]
+	path = zoo
+	url = https://github.com/r-forge/zoo
